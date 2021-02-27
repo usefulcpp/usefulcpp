@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**usefulcpp/usefulcpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### The challenge
 
 To get as many C++ developers as possible to contribute their best algorithm/class that they wrote in their live.
