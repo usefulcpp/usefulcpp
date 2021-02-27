@@ -3,10 +3,11 @@
 
 To get as many C++ developers as possible to contribute their best algorithm/class that they wrote in their live.
 How is it supposed to work. By making the nerdiest ice bucket challenge ever!
-For now I will remain anonymous and start this repository with my favorite class that I ever created.
+For now I will remain anonymous and start this repository only with the rules and the examples.
 I think this is important because this project is meant to serve as a Swiss knife with plenty of tools for every C++ user out there.
 Let's see how it turns out.
-I will tweet at three very public C++ developers to contribute their favorite class/algorithm.
+I will tweet at three very public C++ developers to contribute their favorite class/algorithm. Then those nominate three other C++ developers and so goes the avalanche.
+I would like to be nominated myself :)
 I will be responsible for accepting all pull requests, that satisfy the rules and that keeps the build and all tests successful.
 The initial tool is going to be cmake. But of course pull requests that introduce other build systems and package managers are accepted along the way. This project is not meant to endorse any tools. The point is to collect useful C++ from as many developers as possible.
 
